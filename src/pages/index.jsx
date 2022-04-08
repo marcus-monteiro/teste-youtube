@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       Clonando youtube
-      <Button color="primary">Hello World</Button>
+      <Button variant="outlined" color="secondary">Hello World</Button>
     </div>
   );
 }
